@@ -10,7 +10,7 @@ https://github.com/Vacricticy/mongodb_practice
 
 这里我推介下载zip版本，解压到任意盘，由于C盘容易满，所以我放到了D盘。我在D盘创建了一个 mongoDB 的目录，并将压缩包解压到了这个目录里面。
 
-下载地址：https://www.mongodb.com/try/download/community
+下载地址：https://www.mongodb.com/try/download/community-kubernetes-operator
 
 ![image-20230326155531942](https://article.biliimg.com/bfs/article/a187571b429de069e106c7f4ac602bf3789dba59.png)
 
